@@ -1,0 +1,12 @@
+*{box-sizing: border-box;}
+form{
+    width: 400px;
+    border: 2px solid palevioletred;
+}
+form label{
+    display: block;
+}
+form input{
+    width: 100%;
+    display: block;
+}
